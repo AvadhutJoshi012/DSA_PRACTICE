@@ -11,7 +11,8 @@ public class Example01 {
 		String s = "HelloAvadhut";
 		System.out.println(s.substring(0, 5));
 		System.out.println(s.substring(5));
-
+		
+		
 	}
 
 }

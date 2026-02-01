@@ -4,7 +4,7 @@ public class CountDigit {
 
 	public static void main(String[] args) {
 
-		int num = 000;
+		int num = 103;
 
 		int res = 0;
 		while (num > 0) {
